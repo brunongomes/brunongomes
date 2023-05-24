@@ -12,7 +12,7 @@ I am a Computer Engineering student with over 5 years of programming experience 
 
 💬 I'm always willing to help other developers and share my experiences. If you have any questions or need guidance, feel free to reach out.
 
-![brunongomes GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![brunongomes GitHub stats](https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark)
 
 ### Contacts
 📧 Email: brunongomes8@gmail.com <br/>
