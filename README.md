@@ -1,20 +1,20 @@
-### Olá! Meu nome é Bruno Gomes 👋
-Sou um estudante de Engenharia de Computação com mais de 5 anos de experiência em programação e com mais de 1 ano de atuação profissional na área. Estou constantemente buscando aprimorar minhas habilidades e conhecimentos para me tornar um desenvolvedor cada vez melhor.
+### Hello! My name is Bruno Gomes. 👋
+I am a Computer Engineering student with over 5 years of programming experience and more than 1 year of professional work in the field. I am constantly striving to enhance my skills and knowledge to become an even better developer.
 
-### Sobre mim
-🔭 Atualmente trabalho como desenvolvedor de software, aplicando meus conhecimentos em projetos desafiadores e inovadores.
+### About Me
+🔭 I currently work as a software developer, applying my knowledge to challenging and innovative projects.
 
-🌱 Sou apaixonado por aprender novas tecnologias e explorar diferentes áreas da programação, desde desenvolvimento web até ciência de dados.
+🌱 I'm passionate about learning new technologies and exploring different areas of programming, from web development to data science.
 
-💡 Tenho experiência com algumas linguagens de programação, incluindo JavaScript e Python. Também estou familiarizado com frameworks populares, como Node.js.
+💡 I have experience with several programming languages, including JavaScript and Python. I'm also familiar with popular frameworks like Node.js.
 
-🤝 Estou aberto a colaborações e projetos interessantes. Adoro trabalhar em equipe, compartilhar conhecimentos e enfrentar desafios complexos.
+🤝 I'm open to collaborations and interesting projects. I enjoy working in teams, sharing knowledge, and tackling complex challenges.
 
-💬 Estou sempre disposto a ajudar outros desenvolvedores e compartilhar minhas experiências. Se você tiver alguma dúvida ou precisar de orientação, sinta-se à vontade para entrar em contato.
+💬 I'm always willing to help other developers and share my experiences. If you have any questions or need guidance, feel free to reach out.
 
 ![brunongomes GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
-### Contatos
+### Contacts
 📧 Email: brunongomes8@gmail.com <br/>
 💼 LinkedIn: https://www.linkedin.com/in/brunongomes1993 <br/>
 
