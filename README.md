@@ -12,7 +12,8 @@ I am a Computer Engineering student with over 5 years of programming experience 
 
 💬 I'm always willing to help other developers and share my experiences. If you have any questions or need guidance, feel free to reach out.
 
-![brunongomes GitHub stats](https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
 
 ### Contacts
 📧 Email: brunongomes8@gmail.com <br/>
@@ -20,7 +21,7 @@ I am a Computer Engineering student with over 5 years of programming experience 
 
 ### Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunongomes&layout=compact&langs_count=7&theme=dark"/>
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
