@@ -17,7 +17,7 @@ I am a Computer Engineering student with over 5 years of programming experience 
 
 ### Contacts
 📧 Email: brunongomes8@gmail.com <br/>
-💼 LinkedIn: https://www.linkedin.com/in/brunongomes1993 <br/>
+💼 LinkedIn: https://www.linkedin.com/in/brunongs <br/>
 
 ### Skills
 
