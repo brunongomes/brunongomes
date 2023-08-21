@@ -1,4 +1,4 @@
-### Hello! My name is Bruno Gomes. 👋
+### Hello! My name is Bruno. 👋
 I am a Computer Engineering student with over 5 years of programming experience. I currently work as a software developer.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunongomes&layout=compact&langs_count=7&theme=dark"/>
