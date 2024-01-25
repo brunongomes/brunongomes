@@ -1,7 +1,8 @@
-### Hello! My name is Bruno.
-I have a degree in Computer Engineering with more than 5 years of programming experience. I currently work as a software developer.
+### I am Bruno.
+I have a degree in Computer Engineering and have more than 5 years of experience in programming. I currently work as a software developer.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunongomes&layout=compact&langs_count=7&theme=dark"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunongomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunongomes&layout=compact&langs_count=7&theme=dark"/>
 
 ### Contacts
 📧 Email: brunongomes8@gmail.com <br/>
